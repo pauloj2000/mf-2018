@@ -1,3 +1,5 @@
+package br.ufg.inf.mf.pratica;
+
 import java.time.LocalDate;
 
 public class Aplicacao {
