@@ -1,0 +1,6 @@
+.idea
+*.swp
+target
+*.class
+*.iml
+BASE_DE_DADOS_CNES_201808.zip

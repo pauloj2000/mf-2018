@@ -1,0 +1,4 @@
+Scrum
+XP
+RAD
+Cascata
