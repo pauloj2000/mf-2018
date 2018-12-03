@@ -75,4 +75,3 @@ CREATE TABLE MapTo (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 quit
-
